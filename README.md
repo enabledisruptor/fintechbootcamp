@@ -1,5 +1,51 @@
-# fintechbootcamp
+<p align="center"> Unit 1 Homework Assignment: FinTech Case Study - Financeit
+<img src"C:\Users\Jason\Desktop\download.png>
+## Overview and Origin
 
-- My name is Jason Wang. I'm currently a MBA Candidate at U of T.
-- My career goal is to work as a PM in either a fintech startup or an incumbent
-- Fintech is disrupting the entire financial services industry. I am interested in how technology can reduce cost in different sectors within the industry.
+* Name of company
+Financeit
+* When was the company incorporated?
+The company was incorporated in February 1st, 2007. 
+* Who are the founders of the company?
+The company was founded by Michael Garrity, Casper Wong, and Paul Sehr.
+* How did the idea for the company (or project) come about?
+Michael worked in financial services and technology industries building enterprise solutions prior to starting the predecessor of Financeit, Community Lend. He was obsessed with the idea of creating a debt market place where loan seekers are profiled into different risk categories. Once qualified, these multi-purposed loans are syndicated to other individual lenders with varied risk tolerance who want to participate, similar to a mini version of securitization seen in PE and IB.
+* How is the company funded? How much funding have they received?
+
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* What are the other major companies in this domain?
+
+## Results
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* How is your company performing relative to competitors in the same domain?
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
+
