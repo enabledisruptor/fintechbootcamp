@@ -30,7 +30,7 @@
   Financeit focuses on PoS lending with an application framework that allows merchants predominantly in the home services business to be able to present and articulate quotes to   clients as affordable monthly payments instead of a huge lump sum figure. The fintech company is partially a lender and partially a sales enablement tool used by wide range of   customers, from small home services merchants that leverage Financeit to close more deals (without having to host the lending/finance infrastructure themselves) to large home   retailer clients like Home Depot (Project Loan) that requires deep integration of core systems and payment processing capabilities to improve customer experience and their       respective purchasing power. As both a software company and a lender, Financeit operates under the guidance of regulatory compliance/restriction while optimizing user           interface design for multiple stakeholders. 
  
  * Who is the company's intended customer? Is there any information about the market size of this set of customers?
- 
+
   Michael and his team aims to look for transactions that are tremendously under-facilitated, and ultimately concluded that credit sales for home improvement was a gigantic       market and severely underserved. According to Statistica forecast, the home improvement industry sales in Canada was 52.6B and projected to reach 56.3B by 2022. 
  
  * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
