@@ -86,7 +86,7 @@
 
 * Why are these technologies appropriate for your solution?
 
-  UX design softwares like HTML 5 to used for CMS, and the others are for data analytics as well as their current programs mentioned in previous section to enhance their data     analytics capabilities. Currently they already have 21 IPs registered, should leverage these programs to potentially create more (another strategic direction they could go,     but far-fetched) 
+  UX design softwares and HMTL 5 used for CMS and framework, and the others are for data analytics as well as their current programs mentioned in previous section to enhance       their data analytics capabilities. Currently they already have 21 IPs registered, should leverage these programs to potentially create more (another strategic direction they     could go, but far-fetched) 
 
 ## References
 https://www.crunchbase.com/organization/financeit-canada/technology/siftery?tab=siftery_overview
