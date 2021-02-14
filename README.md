@@ -4,23 +4,23 @@
 
 * Name of company
 
-Financeit. 
+  Financeit. 
 
 * When was the company incorporated?
 
-The company was incorporated in February 1st, 2007.
+  The company was incorporated in February 1st, 2007.
 
 * Who are the founders of the company?
 
-Michael Garrity, Casper Wong, and Paul Sehr
+  Michael Garrity, Casper Wong, and Paul Sehr
 
 * How did the idea for the company (or project) come about?
 
-The founder and CEO Michael worked in financial services and technology industries building enterprise solutions prior to starting the predecessor of Financeit, Community Lend. He was obsessed with the idea of creating a debt market place where loan seekers are profiled into different risk categories. Once qualified, these multi-purposed loans are syndicated to other individual lenders with varied risk tolerance who want to participate, similar to a mini version of securitization seen in PE and IB. 
+  The founder and CEO Michael worked in financial services and technology industries building enterprise solutions prior to starting the predecessor of Financeit, Community       Lend. He was obsessed with the idea of creating a debt market place where loan seekers are profiled into different risk categories. Once qualified, these multi-purposed loans   are syndicated to other individual lenders with varied risk tolerance who want to participate, similar to a mini version of securitization seen in PE and IB. 
 
 * How is the company funded? How much funding have they received?
 
-Financeit is currently in its venture round of funding, most recently funded by Goldman Sachs as its lead investor, having raised $61.4MM in total throughout seed, angel, series A and B. 
+  Financeit is currently in its venture round of funding, most recently funded by Goldman Sachs as its lead investor, having raised $61.4MM in total throughout seed, angel,       series A and B. 
 
 
 ## Business Activities:
